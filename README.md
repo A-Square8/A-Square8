@@ -14,7 +14,7 @@ I'm always open to connecting with fellow developers, enthusiasts, and potential
 
 Email: ambastaankit8@gmail.com
 LinkedIn: Ankit Ambasta
-https://a-square8.github.io/Ankit.PortFolio/
+(https://a-square8.github.io/Ankit-Ambasta/)
 Let's connect and make something awesome together!
 
 Thank you for visiting my GitHub profile. Happy coding! 🚀
