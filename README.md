@@ -1,1 +1,3 @@
-Hi there! 👋 I'm Ankit Ambasta, a Computer Science undergraduate at VIT Vellore, specializing in Internet of Things (IoT). I’m passionate about software development, web technologies, and IoT solutions, constantly exploring ways to bridge the gap between hardware and software. My expertise spans full-stack web development, embedded systems, cloud computing, and network security. I actively contribute to open-source projects and enjoy solving real-world problems through code. Always eager to learn and collaborate, I believe in the power of technology to create meaningful solutions. Let’s connect and innovate together! 🚀
+Writes code. Sometimes it works.
+
+My projects usually run perfectly on my machine and immediately combust anywhere else. If you see green squares on my contribution graph, I probably just fixed a typo in a README file. I write code; occasionally, by pure accident, it actually works.
